@@ -1,48 +1,108 @@
 # 📄 AI Resume Parser & ATS Analyzer
 
-An AI-powered Resume Parser built using **Python** and **Streamlit** that extracts candidate information from PDF resumes and provides a basic ATS score with resume improvement suggestions.
+A web application that analyzes PDF resumes, extracts structured candidate information, detects technical skills, calculates a basic ATS score, and provides actionable suggestions to improve resume quality.
 
-## 🚀 Live Demo
+🌐 **Live Demo:** https://keshav-ai-resume-parser.streamlit.app/
 
-👉 https://keshav-ai-resume-parser.streamlit.app
+---
 
-## ✨ Features
+## Overview
 
-- Upload Resume (PDF)
-- Extract Name
-- Extract Email
-- Extract Phone Number
-- Detect Technical Skills
-- ATS Score
-- Resume Improvement Suggestions
+AI Resume Parser & ATS Analyzer simplifies resume screening by automatically extracting essential information from uploaded PDF resumes. The application identifies candidate details such as name, email, phone number, and technical skills, then generates a basic ATS (Applicant Tracking System) score with suggestions to help improve the resume.
 
-## 🛠️ Tech Stack
+This project demonstrates practical knowledge of document processing, text extraction, data analysis, and interactive web application development.
+
+---
+
+## Features
+
+- Upload PDF resumes
+- Extract candidate information
+  - Name
+  - Email Address
+  - Phone Number
+- Detect technical skills
+- Generate a basic ATS score
+- Provide resume improvement suggestions
+- Clean and responsive web interface
+
+---
+
+## Technology Stack
 
 - Python
 - Streamlit
-- pdfplumber
 - Pandas
-- Regex
+- PDF Processing
+- Regular Expressions (Regex)
 
-## 📸 Screenshots
+---
 
-## Before Uploading Resume
+## Project Structure
 
-![Before Upload](Before_Uploading_ Resume.png)
+```
+ai-resume-parser
+│
+├── app.py
+├── requirements.txt
+└── README.md
+```
 
-## After Uploading Resume
+---
 
-![After Upload](After_Uploading_resume.png)
+## Getting Started
 
+Clone the repository
 
-## Installation
+```bash
+git clone https://github.com/Keshav123-CSE/ai-resume-parser.git
+```
+
+Navigate to the project
+
+```bash
+cd ai-resume-parser
+```
+
+Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
+Run the application
+
+```bash
 streamlit run app.py
 ```
 
+---
+
+## Future Enhancements
+
+- AI-powered resume analysis
+- Job description matching
+- Resume keyword optimization
+- Resume ranking and scoring
+- Downloadable analysis reports
+- Improved skill extraction
+- Enhanced ATS evaluation
+
+---
+
 ## Author
 
-Keshav Agrawal
+**Keshav Agrawal**
+
+- GitHub: https://github.com/Keshav123-CSE
+- LinkedIn: https://linkedin.com/in/keshav-agrawal-27b825380
+
+---
+
+## License
+
+This project is intended for educational and learning purposes.
+
+---
+
+⭐ If you found this project useful, consider giving it a Star!
