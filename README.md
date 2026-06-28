@@ -26,13 +26,14 @@ An AI-powered Resume Parser built using **Python** and **Streamlit** that extrac
 
 ## 📸 Screenshots
 
-### Home Page
+## Before Uploading Resume
 
-![Home](images/home.png)
+![Before Upload](Before_Uploading_resume.png)
 
-### Parsed Resume
+## After Uploading Resume
 
-![Result](images/result.png)
+![After Upload](After_Uploading_resume.png)
+
 
 ## Installation
 
