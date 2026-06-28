@@ -28,7 +28,7 @@ An AI-powered Resume Parser built using **Python** and **Streamlit** that extrac
 
 ## Before Uploading Resume
 
-![Before Upload](Before_Uploading_resume.png)
+![Before Upload](Before_Uploading_ Resume.png)
 
 ## After Uploading Resume
 
