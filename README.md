@@ -94,15 +94,4 @@ streamlit run app.py
 
 **Keshav Agrawal**
 
-- GitHub: https://github.com/Keshav123-CSE
-- LinkedIn: https://linkedin.com/in/keshav-agrawal-27b825380
 
----
-
-## License
-
-This project is intended for educational and learning purposes.
-
----
-
-⭐ If you found this project useful, consider giving it a Star!
